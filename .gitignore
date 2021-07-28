@@ -9,3 +9,4 @@ gradle/
 *.pyc
 build/install/SampleMeter/bin/logs/debug
 *.swo
+*/archive/*
