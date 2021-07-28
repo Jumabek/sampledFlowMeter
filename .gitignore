@@ -1,0 +1,11 @@
+build/
+logs/*
+*.logs
+/pom/
+.gradle/
+.idea/
+gradle/
+*.swp
+*.pyc
+build/install/SampleMeter/bin/logs/debug
+*.swo
