@@ -1,6 +1,6 @@
 # SAMPLEMETER
 You may use this code for your research to investigate the impact sampling rate, sampling method, flow cache settings has on Flow Monitoring tools (middleboxes) such as Network Intrusion Detection, Internet Usage Billing, Traffic Engineering Applications.   
-It is build on top of CICFlowMeter and allows you to: 
+It is build on top of [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter) and allows you to: 
 
 1) extract bi-flow features from sampled packets for different packet sampling rates, 
 2) provides option to specify memory used by sampler (E: 1 Mb) 
